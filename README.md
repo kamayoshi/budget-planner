@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Home Screen 
 ![Home-Screen](https://github.com/uddeshyac9/budget-planner-react-native-expo/assets/130648928/40dd92a5-6d0f-41bd-899e-27309f81bfa1)
 
@@ -16,3 +17,6 @@ History Screen
 
 Profile Screen
 ![Profile-Screen](https://github.com/uddeshyac9/budget-planner-react-native-expo/assets/130648928/9e4ac8e3-1726-4e00-9a9e-f43a4152aae0)
+=======
+# budget-planner
+>>>>>>> 59532179aea2a7cbe28f2ebbc22ced79a3cf3c55
